@@ -30,9 +30,9 @@
 
 ### Tech Stack
 
-**Game scripting**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=lua" alt="lua" height="48"/>
+<img src="https://skillicons.dev/icons?i=lua,cs,cpp,java,go,rust" alt="languages" height="48"/>
 
 **Frontend / Mobile**
 
@@ -40,7 +40,7 @@
 
 **Backend / Tools**
 
-<img src="https://skillicons.dev/icons?i=python,vite,threejs,nodejs,cs,linux" alt="backend" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,vite,threejs,nodejs,linux" alt="backend" height="48"/>
 
 ---
 
