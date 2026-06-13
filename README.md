@@ -3,10 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=alvaner;Building+game+tooling;Scripting+%26+automation;Security+%26+licensing" alt="typing banner" />
 
 <p>
-  I build tools for game servers and the web — mostly in the FiveM / GTA V space.
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/FiveM-Game%20Dev-6366F1?style=flat-square" alt="fivem"/>
   <img src="https://img.shields.io/badge/Web%20%26%20Mobile-Full--stack-6366F1?style=flat-square" alt="web"/>
   <img src="https://img.shields.io/badge/Scripting-Automation-111827?style=flat-square" alt="automation"/>
