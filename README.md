@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=alvaner;FiveM+developer;Building+game+tooling;Scripting+%26+automation" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=alvaner;Building+game+tooling;Scripting+%26+automation;Security+%26+licensing" alt="typing banner" />
 
 <p>
   I build tools for game servers and the web — mostly in the FiveM / GTA V space.
