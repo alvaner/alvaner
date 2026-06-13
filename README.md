@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=alvaner;FiveM+developer;Building+game+tooling" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=alvaner;FiveM+developer;Building+game+tooling;Scripting+%26+automation" alt="typing banner" />
 
 <p>
   I build tools for game servers and the web — mostly in the FiveM / GTA V space.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/FiveM-resource%20dev-6366F1?style=flat-square" alt="fivem"/>
-  <img src="https://img.shields.io/badge/Open%20to-Commissions-111?style=flat-square" alt="commissions"/>
+  <img src="https://img.shields.io/badge/FiveM-Game%20Dev-6366F1?style=flat-square" alt="fivem"/>
+  <img src="https://img.shields.io/badge/Web%20%26%20Mobile-Full--stack-6366F1?style=flat-square" alt="web"/>
+  <img src="https://img.shields.io/badge/Scripting-Automation-111827?style=flat-square" alt="automation"/>
+  <img src="https://img.shields.io/badge/Open%20to-Commissions-111827?style=flat-square" alt="commissions"/>
 </p>
 
 </div>
@@ -17,12 +19,12 @@
 
 ### About me
 
-- Shipped multiple FiveM resources — standalone utilities, complex economy systems, instanced multiplayer mechanics
-- Build full-stack products: web apps, mobile (Expo / React Native), REST APIs, auth flows, payments
-- Specialize in game tooling: custom map editors, 2D/3D canvas, coordinate systems, spatial geometry
-- Know the FiveM ecosystem deeply — ox_lib, ESX, QBCore, Qbox, NUI, routing buckets
-- Handle the full pipeline: idea → architecture → backend → UI → deployment → licensing
-- Write clean Lua, TypeScript, Python — whatever the job needs
+- FiveM resources: standalone utilities, complex economy systems, instanced multiplayer mechanics
+- Web and mobile: React, TypeScript, Expo, REST APIs, auth flows, payments (Stripe)
+- Desktop automation: PySide6/Qt6 apps with custom dark UI, Selenium, Windows task scheduling
+- Security & licensing: RSA-PSS signing, HMAC server auth with replay protection, HWID fingerprinting (WMI), anti-debug
+- Infra & deploy: Ubuntu server via SSH, Cloudflare DNS/proxy, custom domain, email setup
+- Game tooling: map editors, 2D/3D canvas, coordinate systems, spatial geometry
 
 ---
 
@@ -38,7 +40,7 @@
 
 **Backend / Tools**
 
-<img src="https://skillicons.dev/icons?i=python,vite,threejs,nodejs" alt="backend" height="48"/>
+<img src="https://skillicons.dev/icons?i=python,vite,threejs,nodejs,cs,linux" alt="backend" height="48"/>
 
 ---
 
