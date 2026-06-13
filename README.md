@@ -47,16 +47,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alvaner&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" height="165" alt="stats" />
-
-</div>
-
----
-
 ### Contact
 
 <div align="center">
