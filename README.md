@@ -21,13 +21,13 @@
 
 - FiveM resources: standalone utilities, complex economy systems, instanced multiplayer mechanics
 - Multi-framework design: standalone cores with ESX / QBCore / Qbox bridges, config-first compatibility
-- Web and mobile: React, TypeScript, Expo, REST APIs, auth flows, payments (Stripe)
+- Game tooling: map & zone editors, 2D/3D canvas (Three.js), coordinate systems, spatial geometry
+- Web & mobile: React, TypeScript, Expo / React Native, REST APIs, auth
 - Backend & data: Flask & Node, PostgreSQL (Neon), licensing servers, admin panels
-- Telegram bots & integrations: notification systems, reporting, automation bots
-- Desktop automation: PySide6/Qt6 apps with custom dark UI, Selenium, Windows task scheduling
+- Telegram bots & integrations: notifications, reporting, automation bots
+- Desktop automation: PySide6/Qt6 apps, Selenium
 - Security & licensing: RSA-PSS signing, HMAC server auth with replay protection, HWID fingerprinting (WMI), anti-debug
-- Infra & deploy: Ubuntu server via SSH, Cloudflare DNS/proxy, custom domain, email setup
-- Game tooling: map editors, 2D/3D canvas, coordinate systems, spatial geometry
+- Infra & deploy: Ubuntu server via SSH, Cloudflare DNS/proxy
 
 ---
 
