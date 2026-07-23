@@ -18,12 +18,12 @@
 
 - FiveM resources: standalone utilities, complex economy systems, instanced multiplayer mechanics
 - Multi-framework design: standalone cores with ESX / QBCore / Qbox bridges, config-first compatibility
-- Game tooling: map & zone editors, 2D/3D canvas (Three.js), coordinate systems, spatial geometry
+- Game tooling: map & zone editors ([VANIR](https://github.com/alvaner/VANIR)), 2D/3D canvas (Three.js), coordinate systems, spatial geometry
 - Web & mobile: React, TypeScript, Expo / React Native, REST APIs, auth
 - Backend & data: ASP.NET (net8), Flask & Node, PostgreSQL (Neon) / SQLite, account systems (email verification, password reset, sessions), licensing servers, admin panels
 - Cloud platforms: user accounts, cloud file storage, user-to-user sharing, per-user quotas, in-app update channels
 - Telegram bots & integrations: notifications, reporting, automation bots
-- Desktop apps: PySide6/Qt6, C# / WinForms, Selenium automation, code obfuscation (ConfuserEx)
+- Desktop apps: PySide6/Qt6, C# / WinForms, native Win32 P/Invoke interop (global hotkeys, window management, layered click-through overlays) in [PinTop](https://github.com/alvaner/PinTop), Selenium automation, code obfuscation (ConfuserEx)
 - Security & licensing: RSA-PSS signing, HMAC server auth with replay protection, HWID fingerprinting (WMI), anti-debug, abuse prevention (rate limiting, anti-enumeration, multi-account dedup)
 - Infra & deploy: Ubuntu VPS (systemd), Cloudflare Tunnel (no exposed origin), SQLite, offsite encrypted backups, SSH release pipeline
 
